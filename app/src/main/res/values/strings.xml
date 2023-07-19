@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">CollegeApp2.0</string>
+    <string name="name">ADARSH</string>
+    <string name="title">royal boy</string>
+    <string name="telephone_number">7670905580</string>
+    <string name="facebook">Facebook</string>
+    <string name="Instagram">Instagram</string>
+    <string name="location">RGUKT Ongole Campus,Kurnool Road,Santhanuthalapadu,Prakasam District,Andhra Pradesh -523225.</string>
+    <string name="Contactusat">Contact us at</string>
+    <string name="email">director@rguktong.ac.in</string>
+    <string name="IIITOngole">RGUKT_ONGOLE</string>
+
+    <string name="Mr.MalliKarajunaNandi">Mr.MalliKarajuna Nandi</string>
+    <string name="description1">Assistant Professor</string>
+    <string name="Mrs.MVinitha">Mrs.M Vinitha</string>
+    <string name="description2">Assistant Professor</string>
+    <string name="Ms.PSindhu">Ms.P Sindhu</string>
+    <string name="description3">Assistant Professor</string>
+    <string name="Ms.BShirieesha">Ms. B Shirieesha</string>
+    <string name="description4">Assistant Professor</string>
+    <string name="Mr.BUthapatiSampathBabu">Mr.Buthapati Sampath Babu</string>
+    <string name="description5">Assistant Professor</string>
+    <string name="Mr.KrishnaManam">Mr.Krishna Manam</string>
+    <string name="description6">Assistant Professor </string>
+    <string name="Soumya">Ms. Soumya M</string>
+    <string name="mohan">Mr. G Mohana rao</string>
+    <string name="GuestFaculity">Guest Faculity</string>
+
+
+    <string name="cse">Department Of Cse</string>
+    <string name="ece">Department of Ece </string>
+    <string name="eee">Department of EEE </string>
+    <string name="mech">Department of Mech</string>
+    <string name="civil">Department of Civil </string>
+
+
+
+
+
+
+</resources>
